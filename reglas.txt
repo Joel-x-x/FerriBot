@@ -234,3 +234,32 @@ los empleados
 Flujo Alternativo: 
 La nómina pasa a un estado de roles generados enviados a spool de impresión o 
 enviados por email al empleado
+
+
+Rubros
+
+
+1. Extensión de Salud por Cónyuge (esc_included)
+Descripción: Es un beneficio que permite extender la cobertura del seguro de salud del IESS (Instituto Ecuatoriano de Seguridad Social) al cónyuge o pareja en unión de hecho del trabajador afiliado.
+Obtención: Para que el cónyuge pueda acceder a este beneficio, el trabajador debe estar afiliado al IESS y debe declarar a su cónyuge en la seguridad social. Este beneficio no genera un costo adicional para el empleado.
+Aplicación: Es optativo y se incluye solo si el empleado decide extender su cobertura de salud.
+2. Aporte Patronal (app_included)
+Descripción: Es el porcentaje que el empleador debe aportar sobre el salario del empleado al IESS. Incluye seguros de salud, riesgos de trabajo y fondos de pensión.
+Obtención: Según la legislación ecuatoriana, el empleador está obligado a realizar este aporte, que equivale al 11.15% del salario del empleado. Se calcula sobre el sueldo nominal.
+Aplicación: Es obligatorio y no depende de la elección del empleado.
+3. Décimo Tercer Sueldo (dts_included)
+Descripción: Es un beneficio anual equivalente a una doceava parte de las remuneraciones percibidas en el año calendario, conocido como "bono navideño".
+Obtención: Se calcula dividiendo el total de sueldos percibidos durante el año para 12. Se lo paga hasta el 24 de diciembre de cada año.
+Aplicación: Es obligatorio por ley para todos los trabajadores con relación de dependencia.
+4. Décimo Cuarto Sueldo (dcs_included)
+Descripción: Es un beneficio adicional equivalente a un salario básico unificado, conocido como "bono escolar".
+Obtención: Se calcula de manera proporcional si el trabajador no ha laborado el año completo. Se paga hasta el 15 de marzo en la región Costa y hasta el 15 de agosto en la región Sierra.
+Aplicación: Es obligatorio y todos los trabajadores con relación de dependencia tienen derecho a recibirlo.
+5. Fondo de Reserva (frp_included)
+Descripción: Es un fondo equivalente al 8.33% del salario que se acumula en el IESS después del primer año de trabajo continuo. Puede ser acumulado o recibido mensualmente como un ingreso adicional.
+Obtención: Se calcula mensualmente sobre la base del salario recibido. El trabajador decide si lo acumula en su cuenta individual en el IESS o lo recibe en efectivo.
+Aplicación: Obligatorio para todos los empleados con más de un año de relación laboral continua.
+6. Aporte Personal (apep_included)
+Descripción: Es el porcentaje del salario del trabajador que se destina al IESS, correspondiente a su aporte personal para la seguridad social.
+Obtención: El aporte personal es del 9.45% del salario del trabajador, deducido directamente del sueldo nominal.
+Aplicación: Es obligatorio y se aplica a todos los trabajadores afiliados al IESS.
